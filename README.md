@@ -21,7 +21,7 @@ Antes de comenzar, asegurate de tener las siguientes bibliotecas de Python insta
 
 ### Instalación
 
-1. **Clona este repositorio** en tu máquina local:
+1. **Clona este repositorio** en tu vm:
 
    ```bash
    git clone https://github.com/wapnedservices/render-3d
